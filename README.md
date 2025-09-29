@@ -12,7 +12,10 @@ Bienvenido a mi repositorio de proyectos personales. Aquí comparto ejercicios y
 
 - [Postcard](https://daalvarezig.github.io/exercise-postcard/)  
   Ejercicio de maquetación de una postal con HTML y CSS.
-  
+
+- [CV en HTML](https://daalvarezig.github.io/daalvarezig-cv/)  
+  Curriculum vitae interactivo en HTML y CSS.
+
 ## Sobre mí
 
 Soy David Álvarez, especialista funcional en entornos financieros con más de 13 años de experiencia y en formación continua en desarrollo de software. Este repositorio refleja mis avances y ganas de aprender en tecnologías web y móviles.
