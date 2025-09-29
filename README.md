@@ -13,7 +13,7 @@ Bienvenido a mi repositorio de proyectos personales. Aquí comparto ejercicios y
 - [Postcard](https://daalvarezig.github.io/exercise-postcard/)  
   Ejercicio de maquetación de una postal con HTML y CSS.
 
-- [CV en HTML](https://daalvarezig.github.io/daalvarezig-cv/)  
+- [CV en HTML](https://4geeksacademy.github.io/daalvarezig-CV/)
   Curriculum vitae interactivo en HTML y CSS.
 
 ## Sobre mí
