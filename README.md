@@ -4,17 +4,20 @@ Bienvenido a mi repositorio de proyectos personales. Aquí comparto ejercicios y
 
 ## 🚀 Proyectos Destacados
 
+- [CV en HTML](https://4geeksacademy.github.io/daalvarezig-CV/)
+  Curriculum vitae interactivo en HTML y CSS con animaciones GSAP.
+
 - [Excusify – Generador de excusas](https://4geeksacademy.github.io/daalvarezig-Excusify/)  
   Generador de excusas aleatorias con HTML, CSS y JavaScript.  
 
-- [Post Instagram Clone](https://4geeksacademy.github.io/daalvarezig-post-instagram/)  
-  Maquetación de posts de Instagram con HTML y CSS.
+- [Post Instagram Semántico](https://4geeksacademy.github.io/daalvarezig-PISemantico/)  
+  Maquetación de posts de Instagram con HTML5 semántico y CSS3 incluyendo iconos interactivos.
 
 - [Postcard](https://daalvarezig.github.io/exercise-postcard/)  
   Ejercicio de maquetación de una postal con HTML y CSS.
 
-- [CV en HTML](https://4geeksacademy.github.io/daalvarezig-CV/)
-  Curriculum vitae interactivo en HTML y CSS.
+- [Post Instagram ](https://4geeksacademy.github.io/daalvarezig-post-instagram/)
+  Maquetación de posts de Instagram con HTML y CSS.
 
 ## Sobre mí
 
